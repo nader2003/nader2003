@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nader2003&label=Profile%20views&color=0e75b6&style=flat" alt="nader2003" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Python e MySQL**
+- 🌱 I’m currently learning **Python**
 
 
 <h3 align="left">Languages and Tools:</h3>
