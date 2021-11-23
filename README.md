@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nader Samuel</h1>
 <h3 align="center">Escola Centro Federal de Educação e Tecnologia de Minas Gerais (CEFETMG) </h3>
-<h3 align = "center">Curso o técnico em Redes de Computadores e estou no 2º do Ensino Médio</h3>
+<h3 align = "center">Curso o técnico em Redes de Computadores e estou no 3º do Ensino Médio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nader2003&label=Profile%20views&color=0e75b6&style=flat" alt="nader2003" /> </p>
 
